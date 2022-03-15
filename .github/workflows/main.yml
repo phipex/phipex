@@ -26,5 +26,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
-          config_output: markdown
+          config_output: svg
           
